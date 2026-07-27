@@ -51,5 +51,6 @@ print("#    #")
 print("#     #")
 print("#      #")
 
+# wadah = input("Namamu siapa? ")
 
 
