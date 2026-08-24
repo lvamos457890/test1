@@ -6,7 +6,7 @@
 # tb = input("tinggi badan?")
 
 
-# bb = input("berat badan")
+# bb = input("berat badan?")
 
 
 
@@ -16,6 +16,7 @@
 # print("tb",tb)
 # print("bb",bb)
 
+
 #CHALLENGE 2: 
 # Id = input("id mu apa")
 # email = input("email mu apa")
@@ -24,8 +25,8 @@
 # print("Id:"+ Id)
 # print("email:", email)
 
-#fitur (type(..)) untuk mengetahui tipe data 
-# #integer = angka
+# fitur (type(..)) untuk mengetahui tipe data 
+# integer = angka
 # a=("1"+"1")
 # #float = desimal
 # b=(0,5*0,5)
@@ -39,10 +40,10 @@
 
 
 #konteksnya untuk mengubah tipe data 
-# number=5
-# txt=str(number)
-# print(txt)
-# print(type(txt))
+number=5
+txt=str(number)
+print(txt)
+print(type(txt))
 
 
 
