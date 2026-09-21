@@ -1,29 +1,29 @@
-# while True:
-#     print("Body mass index (BMI)")
-#     weight = float(input("How much do you in Kilograms "))
-#     height = float(input("how tall are you in meters?"))
-#     BMI = weight / (height * height)
+while True:
+    print("Body mass index (BMI)")
+    weight = float(input("How much do you in Kilograms "))
+    height = float(input("how tall are you in meters?"))
+    BMI = weight / (height * height)
 
-#     if BMI < 18.5:
-#         print("Less Weight")
-#     elif 18.5 < BMI:
-#         print("Normal Weight")
+    if BMI < 18.5:
+        print("Less Weight")
+    elif 18.5 < BMI:
+        print("Normal Weight")
 
-#     elif 25 < BMI < 29.9:
-#         print("Over Weight")
+    elif 25 < BMI < 29.9:
+        print("Over Weight")
 
-#     else:
-#         print("Obesity")
-
-
-
-#     print("Your BMI = " + str(BMI))
+    else:
+        print("Obesity")
 
 
 
-#     ans = input("Do you want to input again ? y/n --> ").upper()
-#     if ans == "n":
-#         break
+    print("Your BMI = " + str(BMI))
+
+
+
+    ans = input("Do you want to input again ? y/n --> ").upper()
+    if ans == "N":
+        break
 
 # def greet():
 #     print("Hello! Welcome to our website.")

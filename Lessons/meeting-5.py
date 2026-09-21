@@ -48,7 +48,9 @@
 
 # sort untuk mengurutkan data dari yang terkecil sampai terbesar atau dari A-Z
 
-# Nilai = [67, 69, 43, 31, 77]
+Nilai = [67, 69, 43, 31, 77]
+i = 3
+print(Nilai[i])
 # Nilai.sort()
 # print(Nilai)
 

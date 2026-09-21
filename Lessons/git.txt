@@ -1,0 +1,9 @@
+#untuk menambahkan file ke git local (belum masuk ke github)
+git add .
+
+#menamakan apa yang telah ditambahkan di git add
+git commit -m " "
+
+#menambahkan file dari git local ke
+git push
+
