@@ -2,8 +2,9 @@
 git add .
 
 #menamakan apa yang telah ditambahkan di git add
-git commit -m " "
+git commit -m " isi something "
 
 #menambahkan file dari git local ke
 git push
 
+username: loviamosy251@gmail.com
