@@ -1,5 +1,2 @@
-def greet():
-    print("Hello! Welcome to our website.")
-    print("Enjoy your stay!")
-
-greet()
+random = [0,5, 790, "bola", True]
+print(random)

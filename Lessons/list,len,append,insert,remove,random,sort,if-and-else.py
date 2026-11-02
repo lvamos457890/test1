@@ -29,8 +29,8 @@ print(fruits)
 
 
 
-# random = [0,5, 790, "bola", True]
-# print(random)
+random = [0,5, 790, "bola", True]
+print(random)
 
 # Menu = ["1. Nasi goreng", "2. Nasi goreng special", "3. Mie ayam"]
 # print(Menu[0])

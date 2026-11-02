@@ -20,17 +20,17 @@
 
 
 
-# # # # import random
+# import random
 
-# # # # firstnames = ["jason","sintia","james"]
-# # # # lastnames = ["susanto", "sihombing","bond"]
+# firstnames = ["jason","sintia","james"]
+# lastnames = ["susanto", "sihombing","bond"]
 
-# # # # firstname = random.choice(firstnames)
-# # # # lastname = random.choice(lastnames)
+# firstname = random.choice(firstnames)
+# lastname = random.choice(lastnames)
 
-# # # # randomnumber = random.randint(100,1000)
+# randomnumber = random.randint(100,1000)
 
-# # # # # print(firstname + lastname + str(randomnumber))
+# print(firstname + lastname + str(randomnumber))
 
 
 # # for counter  in range(5): 
@@ -44,7 +44,8 @@
 # for i in range(0,11,5):
 #  print(i)
 
-# # # len 
+# # # len = menghitung total barang/objek di dalam list
+
 barang = ["monitor","sendal","tv","mobil","sepeda"]
 print(len(barang))
 for i in range(len(barang)): 
