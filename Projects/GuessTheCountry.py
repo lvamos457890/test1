@@ -19,7 +19,7 @@ score = 0
 print("Guess the Country")
 
 print("1+1 = ")
-answer = "3"
+answer = "2"
 check_guess()
 
 

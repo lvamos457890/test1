@@ -22,10 +22,10 @@ fruits.insert(1,"Belimbing")
 print(fruits)
 # remove untuk menghapus data yang mau dihapus di list
 
-# fruits.remove("Jambu")
-# fruits.remove("Apel")
-# fruits.remove("Pisang")
-# print(fruits)
+fruits.remove("Jambu")
+fruits.remove("Apel")
+fruits.remove("Pisang")
+print(fruits)
 
 
 
