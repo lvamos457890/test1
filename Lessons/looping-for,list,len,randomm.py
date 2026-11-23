@@ -20,29 +20,29 @@
 
 
 
-# import random
+import random
 
-# firstnames = ["jason","sintia","james"]
-# lastnames = ["susanto", "sihombing","bond"]
+firstnames = ["jason","sintia","james"]
+lastnames = ["susanto", "sihombing","bond"]
 
-# firstname = random.choice(firstnames)
-# lastname = random.choice(lastnames)
+firstname = random.choice(firstnames)
+lastname = random.choice(lastnames)
 
-# randomnumber = random.randint(100,1000)
+randomnumber = random.randint(100,1000) #Bebas di isi angka apapun, ini hanya angka acak
 
-# print(firstname + lastname + str(randomnumber))
+print(firstname + lastname + str(randomnumber))
 
 
-# # for counter  in range(5): 
-# #     print("loop ke ", counter + 1)
-# #     print("How are you? ! ")
+for counter in range(5): 
+    print("loop ke ", counter + 1)
+    print("How are you? ! ")
 
-# nama = input("namamu siapa")
-# for i in range(5):
-#  print("nama saya",nama)
+nama = input("namamu siapa")
+for i in range(5):
+ print("nama saya",nama)
 
-# for i in range(0,11,5):
-#  print(i)
+for i in range(0,11,5):
+ print(i)
 
 # # # len = menghitung total barang/objek di dalam list
 

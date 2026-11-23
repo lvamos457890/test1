@@ -32,18 +32,18 @@ print(fruits)
 random = [0,5, 790, "bola", True]
 print(random)
 
-# Menu = ["1. Nasi goreng", "2. Nasi goreng special", "3. Mie ayam"]
-# print(Menu[0])
-# print(Menu[1])
-# print(Menu[2])
+Menu = ["1. Nasi goreng", "2. Nasi goreng special", "3. Mie ayam"]
+print(Menu[0])
+print(Menu[1])
+print(Menu[2])
 
-# Random = 1
-# Random = 2
-# print(Random)
+Random = 1
+Random = 2
+print(Random)
 
-# Random = [4, 11 , 34]
-# Random[1] = 20
-# print(Random)
+Random = [4, 11 , 34]
+Random[1] = 20
+print(Random)
 
 
 # sort untuk mengurutkan data dari yang terkecil sampai terbesar atau dari A-Z

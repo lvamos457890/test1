@@ -1,4 +1,5 @@
-barang = ["monitor","sendal","tv","mobil","sepeda"]
-print(len(barang))
-for i in range(len(barang)): 
-    print(barang[i])
+Nilai = [67, 69, 43, 31, 77]
+i = 3
+print(Nilai[i])
+Nilai.sort()
+print(Nilai)
